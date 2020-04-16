@@ -1,6 +1,6 @@
 # Fullwave 2D GPU 
   
-To run it on **ultrasound-gpu** queue of DCC:
+To run it on **ultrasound-gpu queue of DCC**:
 
 1. prepare a repository with all the fullwave essential `*.dat` files (like for `try6_nomex`) with the `FullWave2D_PGI_19.10_CUDA_9.1_20200406.gpu_volta` inside the repository instead of `try6_nomex`
 
