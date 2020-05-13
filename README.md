@@ -2,7 +2,7 @@
   
 To run it on **ultrasound-gpu queue of DCC**:
 
-1. prepare a repository with all the fullwave essential `*.dat` files (like for `try6_nomex`) with the `FullWave2D_PGI_19.10_CUDA_9.1_20200406.gpu_volta` inside the repository instead of `try6_nomex`
+1. prepare a repository with all the fullwave essential `*.dat` files (like for `try6_nomex`) with the `FullWave2D_PGI_19.10_CUDA_9.1_20200512.gpu_volta` inside the repository instead of `try6_nomex`
 
 1. Login to dcc-slogin-01 (not 02, 03 etc, the compiler is node locked).
 
